@@ -1,0 +1,1 @@
+# cng_words_collector_user
