@@ -1,0 +1,8 @@
+version: '3.7'
+
+services:
+  cng_words_bot:
+    build: .
+    volumes:
+      - .:/usr/src/app
+    restart: unless-stopped
